@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# HLX - College Marketplace
+
+## Overview
+HLX is an online marketplace specifically designed for college students to buy and sell used items. Acknowledging the unique needs of students living in hostels, PGs, or rented flats, HLX facilitates a convenient and cost-effective way for students to acquire essentials while enabling others to declutter before graduation.
+
+## Key Features
+- **User-Friendly Marketplace**: Easily browse, buy, or sell a variety of items including furniture, study materials, electronics, and more.
+- **Location-Based Filters**: Search for items based on your PG, hostel, city, or area to connect with nearby sellers.
+- **Secure User Profiles**: Create verified profiles to foster trust and accountability within the community, with options to leave reviews and ratings.
+- **Effortless Listing Process**: Quickly list items with detailed descriptions, photos, and prices to make it easy for potential buyers to find what they need.
+- **Direct Communication**: Utilize a built-in messaging system to negotiate and ask questions, streamlining the transaction process.
+- **Community Engagement**: Participate in forums and discussion boards to share tips, advice, and experiences related to buying and selling.
+
+## Mission
+Our mission is to create a supportive and resourceful environment for college students, helping them save money while promoting sustainability through the reuse of items. By bridging the gap between those looking to buy and those ready to sell, we aim to foster a sense of community and collaboration among students living in various accommodations.
+
+## Vision
+We envision a vibrant marketplace that not only serves as a trading platform but also builds connections among students, making their college experience more affordable and enriching.
 
 ## Getting Started
+To get started with HLX, follow these steps:
 
-First, run the development server:
+1. **Clone the Repository**:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   git clone https://github.com/Preyash-24/HLX.git
+   cd HLX
